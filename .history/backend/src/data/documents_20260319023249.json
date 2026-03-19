@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Node.js Basics",
+    "content": "Node.js is a runtime environment for JavaScript."
+  },
+  {
+    "id": "2",
+    "title": "React Guide",
+    "content": "React is a frontend library for building UI."
+  },
+  {
+    "id": "3",
+    "title": "Express Framework",
+    "content": "Express is a backend framework for Node.js."
+  }
+]
