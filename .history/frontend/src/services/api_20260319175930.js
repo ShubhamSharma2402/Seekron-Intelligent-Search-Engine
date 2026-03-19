@@ -1,4 +1,4 @@
-const BASE_URL = `${import.meta.env.VITE_API_URL}/api`; // ⚠️ change if backend runs on different port
+const BASE_URL = "http://localhost:5000/api"; // ⚠️ change if backend runs on different port
 
 export const searchAPI = async (query) => {
   try {
